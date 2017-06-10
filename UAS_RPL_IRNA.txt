@@ -1,3 +1,4 @@
 INI ADALAH CONTOH ISISAN UNTUK TUGAS UAS
 Nama  : Irna Restiani
 NPM   : 1406068
+Kelas : Teknik Informatika B
